@@ -34,15 +34,13 @@ Log into Microsoft azure and create a resource group labeled Osticket(or whateve
 <br />
 
 <p>
-<img src="blob:chrome-untrusted://media-app/654fca6d-6940-4018-b9c5-3556e950b543" alt="SGhqd31 - Imgur.png"/>![image](https://github.com/SDhinton1/OsTicketPre/assets/143854836/6f73983f-15de-491f-a6af-0d3f58123be8)
-
+<img src="https://i.imgur.com/m4bqaP4.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 When working through IIS download the os ticket extension and enable php extensions configure permissions in the ost file, download heidiSQL and make the SQL for the osticket website.
 </p>
 <br />
 
 <p>
-<img src="blob:chrome-untrusted://media-app/bde0858a-d1eb-4195-a403-968b8eed2ba2" alt="Screenshot 2023-09-03 1.11.34 PM.png"/>![image](https://github.com/SDhinton1/OsTicketPre/assets/143854836/b7320ff6-5959-4f2e-9e37-fd3c13c3e2ba)
-</p>
+<img src="https://i.imgur.com/Zc1qPUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p>
 After logging in with your root name and password through heidiSQL your new osticket website has now opened up so you can now open tickets, create users, and run your own ticketing system.
 </p>
